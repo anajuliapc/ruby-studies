@@ -1,0 +1,1 @@
+A repository to store simple projects as I follow tutorials and other stuff to learn Ruby if I feel the need to.
